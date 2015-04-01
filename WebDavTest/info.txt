@@ -1,0 +1,14 @@
+﻿
+
+http://stackoverflow.com/questions/7344238/word-2010-reports-an-error-after-saving-to-webdav-server
+
+http://sourceforge.net/projects/webdav/?source=typ_redirect
+
+http://www.webdavsystem.com/ajax/programming/opening_ms_office_docs
+
+
+http://stackoverflow.com/questions/4159439/chrome-open-links-to-openoffice-documents-on-webdav-directly-in-openoffice
+
+
+
+https://webdavsharp.codeplex.com/

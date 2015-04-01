@@ -53,6 +53,7 @@
     <Content Include="core.js" />
     <Content Include="Default.aspx" />
     <Content Include="example.aspx" />
+    <Content Include="info.txt" />
     <Content Include="Scripts\jquery-1.7.1.intellisense.js" />
     <Content Include="Scripts\jquery-1.7.1.js" />
     <Content Include="Scripts\jquery-1.7.1.min.js" />
